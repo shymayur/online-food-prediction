@@ -22,5 +22,8 @@ So the dataset contains information like:
 9. did the customer order again (Output)
 10. Feedback of the last order (Positive or Negative)
 
+# Model:
+I have used Random Forest Model for this problem statement, as it has the best accuracy over other classification algorithms used in such predictions.
+
 # Summary
 So this is how you can predict whether a customer will order food online again or not. The food order prediction system is one of the useful techniques food delivery companies can use to make the entire delivery process fast.
